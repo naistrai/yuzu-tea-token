@@ -1,3 +1,27 @@
+Metadata-Version: 2.2
+Name: yuzu-tea-token
+Version: 0.1.0
+Summary: Python package to interact with Yuzu Tea Token (YZTEA) on Tea Sepolia
+Home-page: https://github.com/naistrai/yuzu-tea-token
+Author: Naistrai
+Author-email: rizkynaistrai@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: web3>=5.0.0
+Requires-Dist: requests>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # Yuzu Tea Token (YZTEA) - Python Package
 
 A Python package to interact with the Yuzu Tea Token (YZTEA) ERC-20 token on the Tea Sepolia testnet (Chain ID: 10218).
